@@ -7,5 +7,7 @@ Grafana-dashboard voor weergave van het energieverbruik van slimme meters. In de
 * Kies **Upload .json File** en selecteer het gedownloade bestand.
 * Selecteer bij **datasource** de bijbehorende datasource (bijvoorbeeld Home Assistant) gevolgd door **Import**.
 
+![Voorbeeld dashboard](https://github.com/gjgroen/verbruiksdashboard/raw/master/demo.png)
+
 ## Bron
 De basis voor het dashboard is een artikel op Clever Crib. De publieke repository die daar bij hoort kun je vinden op https://gitlab.com/clevercrib/energy-dashboard. 
