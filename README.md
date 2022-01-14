@@ -1,5 +1,5 @@
 # Verbruiksdashboard
-Grafana-dashboard voor weergave van het energieverbruik van slimme meters. In deze opzet zal Home Assistant de slimme meter uitlezen via dsmr-compoent. Die gegevens worden opgeslagen in InfluxDB. Grafana kan vervolgens deze gegevens visualiseren. Om snel een dashboard op te bouwen kun je dit verbruiksdashboard importeren.
+Grafana-dashboard voor weergave van het energieverbruik van slimme meters. In deze opzet zal Home Assistant de slimme meter uitlezen via dsmr-compoent. Die gegevens worden opgeslagen in InfluxDB. Grafana kan vervolgens deze gegevens visualiseren. Om snel een dashboard op te bouwen kun je dit verbruiksdashboard importeren. Hierna kun je het aanpassen, zoals de namen van sensoren (als deze afwijken).
 
 ## Importen in Grafana
 * Download het bestand verbruiksdashboard.json (https://raw.githubusercontent.com/gjgroen/verbruiksdashboard/master/verbruiksdashboard.json)
