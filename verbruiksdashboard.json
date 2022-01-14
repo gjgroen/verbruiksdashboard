@@ -48,7 +48,7 @@
       }
     ]
   },
-  "description": "Overzicht van elektriciteits- en gasverbruik in huis",
+  "description": "Overzicht van gas- en stroomverbruik in huis",
   "editable": true,
   "gnetId": null,
   "graphTooltip": 0,
